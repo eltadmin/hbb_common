@@ -98,8 +98,8 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["46.55.253.3"];
-pub const RS_PUB_KEY: &str = "X8xa64c3b3tbiUnLcLKcQdujdFc7lVhY3n2sUu92sEg=";
+pub const RENDEZVOUS_SERVERS: &[&str] = &["eldesk.eltrade.com"];
+pub const RS_PUB_KEY: &str = "tMYItggCDdoUE9o59LLtnewlbbE7Lr5fnwz3R6tzCZw=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
